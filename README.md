@@ -12,7 +12,8 @@ TODO list:
 * determine fragment naming convention
 * create placeholders for ALL fragments
 * create basic routes to ALL fragments
-* create starting page
+* create starting page (e.g. index.html)
+* create the basic Angular 2 App
 * navigate across ALL routes
 
 ### Angular 2 references
