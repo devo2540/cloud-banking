@@ -5,6 +5,7 @@ UI Prototype for a Cloud Banking Site
 
 TODO list:
 * capture images from the design site
+* find a good online reference for Angular 2
 * read up on Angular 2
 * determine routes
 * determine fragments
