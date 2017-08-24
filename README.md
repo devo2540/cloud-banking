@@ -7,6 +7,7 @@ TODO list:
 * capture images from the design site
 * find a good online reference for Angular 2
 * read up on Angular 2
+* read up on correct Angular 2 project structure (e.g. directory structure)
 * determine routes
 * determine fragments
 * determine fragment naming convention
