@@ -14,3 +14,7 @@ TODO list:
 * create basic routes to ALL fragments
 * create starting page
 * navigate across ALL routes
+
+### Angular 2 references
+
+http://www.angular2.com
